@@ -1,0 +1,18 @@
+// Tipuri de date:
+// 1. String/Text: "Romania"
+
+// Date primitive
+// 1. Nedefinit: undefined
+// 2. Nula: null
+// 3. Boolean: true / false
+// 4. Numere: 123
+negative
+reale 123.5
+stiintifice: 1.3e+4 => 13000
+stiintifice: 1.2e-3 => 0.0012
+// 5. String: "", "1", "ab", "ana are mere", "string cu \nrand nou"
+// 6. Obiect simplu: {}, {"cheie": "valoare"}
+// 7. Liste [], [123, "ana", true]
+
+// Date obiectuale *
+// 8. obiecte instantiabile: Date, orice tip cotumizabil
