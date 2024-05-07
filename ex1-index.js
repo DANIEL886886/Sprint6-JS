@@ -11,3 +11,7 @@ function isDivisibleByTen(number) {
         return false;
     }
 }
+    console.log("Test if the input is divisible by 10. Case 1 - number:  20", isDivisibleByTen(20)); // returns true
+    console.log("Test if the input is divisible by 10. Case 2 - number: -34", isDivisibleByTen(-34)); // returns true
+    console.log("Test if the input is divisible by 10. Case 3 - number:  67", isDivisibleByTen(67)); // returns false
+    console.log("Test if the input is divisible by 10. Case 4 - number:  20", isDivisibleByTen(20.5)); // returns error
